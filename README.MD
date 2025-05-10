@@ -8,7 +8,7 @@
 
 `PORTSOFT_FOLDER` - Main folder.
 
-`ARCHI_FOLDERS` - Software "categories", for example x86/x86_64/script/other.
+`ARCHI_FOLDER` - Software "categories", for example x86/x86_64/script/other.
 
 `program_folder` - Folder with a specific program, for example ChimbaBench.
 
@@ -31,6 +31,7 @@
 * User side PORTSOFT_FOLDER and ARCHI_FOLDER:\
 `Path: /home/USERNAME/portsoft`\
 `Path: /home/USERNAME/portsoft/ARCHI_FOLDER`\
+`Path: /home/USERNAME/portsoft/ARCHI_FOLDER/program_folder`\
 `Owner and rights: Not specified`
 
 ### Examples
