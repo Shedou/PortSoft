@@ -4,7 +4,7 @@
 
 1) Portable independent software is preferred.
 
-2) Directory Structure:
+2) Directory Structure:\
 `/PORTSOFT_FOLDER / ARCHI_FOLDERS / program_folder`
 
 `PORTSOFT_FOLDER` - Main folder.
@@ -50,7 +50,7 @@
 
 * Folder for other non-software things:\
 `/portsoft/other`\
-`/portsoft/other/very_nice_icon_pack_v11/purple/some_purple_icons.png`\
+`/portsoft/other/very_nice_icon_pack_v11/purple/some_purple_icons.png`
 
 * Folder for other architectures (must be created by the distribution developer for a specific platform):\
 `/portsoft/armhf`\
@@ -58,7 +58,6 @@
 `/portsoft/riscv`\
 ...
 
-
-* Changelog:\
+## Changelog:
 `-= v0.3 =-`\
  Removed ".local" from portsoft user directory path, the dot could cause problems with some applications.
