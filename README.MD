@@ -28,9 +28,9 @@
 
 ### USER
 
-* User side PORTSOFT_FOLDER and ARCHI_FOLDERS:\
+* User side PORTSOFT_FOLDER and ARCHI_FOLDER:\
 `Path: /home/USERNAME/portsoft`\
-`Path: /home/USERNAME/portsoft/ARCHI_FOLDERS`\
+`Path: /home/USERNAME/portsoft/ARCHI_FOLDER`\
 `Owner and rights: Not specified`
 
 ### Examples
