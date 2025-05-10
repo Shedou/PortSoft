@@ -4,8 +4,7 @@
 
 1) Portable independent software is preferred.
 
-2) Directory Structure:\
-`/PORTSOFT_FOLDER / ARCHI_FOLDERS / program_folder`
+2) Directory Structure: `/PORTSOFT_FOLDER / ARCHI_FOLDERS / program_folder`
 
 `PORTSOFT_FOLDER` - Main folder.
 
